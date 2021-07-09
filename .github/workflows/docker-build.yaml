@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{ YOUR_DOCKERHUB_REPOSITORY }}/python-helloworld:latest
+          tags: peterhuynh99/python-helloworld:v3.0.0
