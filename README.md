@@ -1,3 +1,3 @@
 # python-helloworld
-This is a basic Python Flash application.
+This is a basic test Python Flash application.
 # Author: PHuynh
